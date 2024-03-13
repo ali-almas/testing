@@ -1,0 +1,533 @@
+{
+  "core": {
+    "balances": [
+      {
+        "unitType": "CASH",
+        "balanceName": "Core balance",
+        "initialAmount": 0,
+        "currentAmount": 5388.61,
+        "offers": [
+          {
+            "offerId": "null",
+            "offerInstanceId": "null",
+            "grants": [
+              {
+                "initialAmount": 5387.61,
+                "currentAmount": 5388.61,
+                "reservedAmount": 0,
+                "grantedAmount": 1,
+                "creationDate": "2024-03-12T07:06:01Z",
+                "expirationDate": "2024-08-27T17:15:43Z",
+                "sourceOffer": "TopupBalance",
+                "initialAmountUnitType": "",
+                "currentAmountUnitType": "",
+                "consumedAmount": 0,
+                "consumedAmountUnitType": "",
+                "currentAmountDisplayValue": "",
+                "initialAmountDisplayValue": "",
+                "consumedAmountDisplayValue": "",
+                "remainingQuotaAsOfferUOM": ""
+              },
+              {
+                "initialAmount": 5386.61,
+                "currentAmount": 5387.61,
+                "reservedAmount": 0,
+                "grantedAmount": 1,
+                "creationDate": "2024-03-12T07:05:27Z",
+                "expirationDate": "2024-08-27T17:15:43Z",
+                "sourceOffer": "TopupBalance",
+                "initialAmountUnitType": "",
+                "currentAmountUnitType": "",
+                "consumedAmount": 0,
+                "consumedAmountUnitType": "",
+                "currentAmountDisplayValue": "",
+                "initialAmountDisplayValue": "",
+                "consumedAmountDisplayValue": "",
+                "remainingQuotaAsOfferUOM": ""
+              },
+              {
+                "initialAmount": 5385.61,
+                "currentAmount": 5386.61,
+                "reservedAmount": 0,
+                "grantedAmount": 1,
+                "creationDate": "2024-03-12T07:04:08Z",
+                "expirationDate": "2024-08-27T17:15:43Z",
+                "sourceOffer": "TopupBalance",
+                "initialAmountUnitType": "",
+                "currentAmountUnitType": "",
+                "consumedAmount": 0,
+                "consumedAmountUnitType": "",
+                "currentAmountDisplayValue": "",
+                "initialAmountDisplayValue": "",
+                "consumedAmountDisplayValue": "",
+                "remainingQuotaAsOfferUOM": ""
+              },
+              {
+                "initialAmount": 5384.61,
+                "currentAmount": 5385.61,
+                "reservedAmount": 0,
+                "grantedAmount": 1,
+                "creationDate": "2024-03-12T07:02:45Z",
+                "expirationDate": "2024-08-27T17:15:43Z",
+                "sourceOffer": "TopupBalance",
+                "initialAmountUnitType": "",
+                "currentAmountUnitType": "",
+                "consumedAmount": 0,
+                "consumedAmountUnitType": "",
+                "currentAmountDisplayValue": "",
+                "initialAmountDisplayValue": "",
+                "consumedAmountDisplayValue": "",
+                "remainingQuotaAsOfferUOM": ""
+              },
+              {
+                "initialAmount": 5334.61,
+                "currentAmount": 5384.61,
+                "reservedAmount": 0,
+                "grantedAmount": 50,
+                "creationDate": "2024-03-07T19:13:01Z",
+                "expirationDate": "2024-08-27T17:15:43Z",
+                "sourceOffer": "TopupBalance",
+                "initialAmountUnitType": "",
+                "currentAmountUnitType": "",
+                "consumedAmount": 0,
+                "consumedAmountUnitType": "",
+                "currentAmountDisplayValue": "",
+                "initialAmountDisplayValue": "",
+                "consumedAmountDisplayValue": "",
+                "remainingQuotaAsOfferUOM": ""
+              },
+              {
+                "initialAmount": 5284.61,
+                "currentAmount": 5334.61,
+                "reservedAmount": 0,
+                "grantedAmount": 50,
+                "creationDate": "2024-03-07T09:53:24Z",
+                "expirationDate": "2024-08-27T17:15:43Z",
+                "sourceOffer": "TopupBalance",
+                "initialAmountUnitType": "",
+                "currentAmountUnitType": "",
+                "consumedAmount": 0,
+                "consumedAmountUnitType": "",
+                "currentAmountDisplayValue": "",
+                "initialAmountDisplayValue": "",
+                "consumedAmountDisplayValue": "",
+                "remainingQuotaAsOfferUOM": ""
+              },
+              {
+                "initialAmount": 5289.61,
+                "currentAmount": 5284.61,
+                "reservedAmount": 0,
+                "grantedAmount": -5,
+                "creationDate": "2024-03-05T10:49:17Z",
+                "expirationDate": "2024-08-27T17:15:43Z",
+                "sourceOffer": "recurringChargeDebit",
+                "initialAmountUnitType": "",
+                "currentAmountUnitType": "",
+                "consumedAmount": 0,
+                "consumedAmountUnitType": "",
+                "currentAmountDisplayValue": "",
+                "initialAmountDisplayValue": "",
+                "consumedAmountDisplayValue": "",
+                "remainingQuotaAsOfferUOM": ""
+              },
+              {
+                "initialAmount": 289.61,
+                "currentAmount": 5289.61,
+                "reservedAmount": 0,
+                "grantedAmount": 5000,
+                "creationDate": "2024-03-04T15:50:30Z",
+                "expirationDate": "2024-08-27T17:15:43Z",
+                "sourceOffer": "TopupBalance",
+                "initialAmountUnitType": "",
+                "currentAmountUnitType": "",
+                "consumedAmount": 0,
+                "consumedAmountUnitType": "",
+                "currentAmountDisplayValue": "",
+                "initialAmountDisplayValue": "",
+                "consumedAmountDisplayValue": "",
+                "remainingQuotaAsOfferUOM": ""
+              },
+              {
+                "initialAmount": 89.61,
+                "currentAmount": 289.61,
+                "reservedAmount": 0,
+                "grantedAmount": 200,
+                "creationDate": "2024-03-04T15:41:10Z",
+                "expirationDate": "2024-08-27T17:15:43Z",
+                "sourceOffer": "TopupBalance",
+                "initialAmountUnitType": "",
+                "currentAmountUnitType": "",
+                "consumedAmount": 0,
+                "consumedAmountUnitType": "",
+                "currentAmountDisplayValue": "",
+                "initialAmountDisplayValue": "",
+                "consumedAmountDisplayValue": "",
+                "remainingQuotaAsOfferUOM": ""
+              },
+              {
+                "initialAmount": 34.61,
+                "currentAmount": 89.61,
+                "reservedAmount": 0,
+                "grantedAmount": 55,
+                "creationDate": "2024-03-04T15:24:48Z",
+                "expirationDate": "2024-08-27T17:15:43Z",
+                "sourceOffer": "TopupBalance",
+                "initialAmountUnitType": "",
+                "currentAmountUnitType": "",
+                "consumedAmount": 0,
+                "consumedAmountUnitType": "",
+                "currentAmountDisplayValue": "",
+                "initialAmountDisplayValue": "",
+                "consumedAmountDisplayValue": "",
+                "remainingQuotaAsOfferUOM": ""
+              },
+              {
+                "initialAmount": 37,
+                "currentAmount": 34.61,
+                "reservedAmount": 0,
+                "grantedAmount": -2.3900000000000006,
+                "creationDate": "2024-03-04T05:44:08Z",
+                "expirationDate": "2024-08-27T17:15:43Z",
+                "sourceOffer": "oneTimeChargeDebit Order Id:25243003",
+                "initialAmountUnitType": "",
+                "currentAmountUnitType": "",
+                "consumedAmount": 0,
+                "consumedAmountUnitType": "",
+                "currentAmountDisplayValue": "",
+                "initialAmountDisplayValue": "",
+                "consumedAmountDisplayValue": "",
+                "remainingQuotaAsOfferUOM": ""
+              },
+              {
+                "initialAmount": 137,
+                "currentAmount": 37,
+                "reservedAmount": 0,
+                "grantedAmount": -100,
+                "creationDate": "2024-02-29T13:15:46Z",
+                "expirationDate": "2024-08-27T17:15:43Z",
+                "sourceOffer": "recurringChargeDebit",
+                "initialAmountUnitType": "",
+                "currentAmountUnitType": "",
+                "consumedAmount": 0,
+                "consumedAmountUnitType": "",
+                "currentAmountDisplayValue": "",
+                "initialAmountDisplayValue": "",
+                "consumedAmountDisplayValue": "",
+                "remainingQuotaAsOfferUOM": ""
+              },
+              {
+                "initialAmount": 37,
+                "currentAmount": 137,
+                "reservedAmount": 0,
+                "grantedAmount": 100,
+                "creationDate": "2024-02-29T13:15:44Z",
+                "expirationDate": "2024-08-27T17:15:43Z",
+                "sourceOffer": "TopupBalance",
+                "initialAmountUnitType": "",
+                "currentAmountUnitType": "",
+                "consumedAmount": 0,
+                "consumedAmountUnitType": "",
+                "currentAmountDisplayValue": "",
+                "initialAmountDisplayValue": "",
+                "consumedAmountDisplayValue": "",
+                "remainingQuotaAsOfferUOM": ""
+              },
+              {
+                "initialAmount": 0,
+                "currentAmount": 0,
+                "reservedAmount": 0,
+                "grantedAmount": 0,
+                "offerActivationDate": "2024-02-26T14:58:10Z",
+                "creationDate": "2024-02-26T14:58:10Z",
+                "expirationDate": "2024-08-27T13:15:43Z",
+                "sourceOffer": "initial",
+                "initialAmountUnitType": "AZN",
+                "currentAmountUnitType": "AZN",
+                "consumedAmount": 0,
+                "consumedAmountUnitType": "AZN",
+                "currentAmountDisplayValue": "0 AZN",
+                "initialAmountDisplayValue": "0 AZN",
+                "consumedAmountDisplayValue": "0 AZN",
+                "remainingQuotaAsOfferUOM": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tariff": {
+    "balances": [
+      {
+        "unitType": "Bytes",
+        "balanceName": "Social networking",
+        "initialAmount": 1073741824,
+        "currentAmount": 1,
+        "offers": [
+          {
+            "offerId": "2000017088",
+            "offerInstanceId": "551894:3",
+            "offerName": "1  GB",
+            "isOptional": true,
+            "offerClass": "ADD-ON",
+            "retailPrice": {
+              "amount": 0,
+              "currency": "AZN"
+            },
+            "grants": [
+              {
+                "initialAmount": 1073741824,
+                "currentAmount": 1,
+                "reservedAmount": 0,
+                "grantedAmount": 0,
+                "offerActivationDate": "2024-02-26T18:49:22Z",
+                "creationDate": "2024-02-26T18:58:11Z",
+                "expirationDate": "2024-03-26T18:58:09Z",
+                "sourceOffer": "Serbest 15  Plan",
+                "sourceOfferId": "7578524889734887223",
+                "initialAmountUnitType": "Bytes",
+                "currentAmountUnitType": "Gbytes",
+                "consumedAmount": 0,
+                "consumedAmountUnitType": "Bytes",
+                "currentAmountDisplayValue": "1 Gbytes",
+                "initialAmountDisplayValue": "1073741824 Bytes",
+                "consumedAmountDisplayValue": "0 Bytes",
+                "remainingQuotaAsOfferUOM": "1073741824",
+                "usageType": "Data"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "unitType": "Bytes",
+        "balanceName": "Data access",
+        "initialAmount": 5368709120,
+        "currentAmount": 5,
+        "offers": [
+          {
+            "offerId": "2000017088",
+            "offerInstanceId": "551894:3",
+            "offerName": "1  GB",
+            "isOptional": true,
+            "offerClass": "ADD-ON",
+            "retailPrice": {
+              "amount": 0,
+              "currency": "AZN"
+            },
+            "grants": [
+              {
+                "initialAmount": 5368709120,
+                "currentAmount": 5,
+                "reservedAmount": 0,
+                "grantedAmount": 0,
+                "offerActivationDate": "2024-02-26T18:49:22Z",
+                "creationDate": "2024-02-26T18:58:11Z",
+                "expirationDate": "2024-03-26T18:58:09Z",
+                "sourceOffer": "Serbest 15  Plan",
+                "sourceOfferId": "7578524889734887223",
+                "initialAmountUnitType": "Bytes",
+                "currentAmountUnitType": "Gbytes",
+                "consumedAmount": 0,
+                "consumedAmountUnitType": "Bytes",
+                "currentAmountDisplayValue": "5 Gbytes",
+                "initialAmountDisplayValue": "5368709120 Bytes",
+                "consumedAmountDisplayValue": "0 Bytes",
+                "remainingQuotaAsOfferUOM": "5368709120",
+                "usageType": "Data"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "unitType": "Seconds",
+        "balanceName": "Voice",
+        "initialAmount": 30000,
+        "currentAmount": 500,
+        "offers": [
+          {
+            "offerId": "2000017088",
+            "offerInstanceId": "551894:3",
+            "offerName": "1  GB",
+            "isOptional": true,
+            "offerClass": "ADD-ON",
+            "retailPrice": {
+              "amount": 0,
+              "currency": "AZN"
+            },
+            "grants": [
+              {
+                "initialAmount": 30000,
+                "currentAmount": 500,
+                "reservedAmount": 0,
+                "grantedAmount": 0,
+                "offerActivationDate": "2024-02-26T18:49:22Z",
+                "creationDate": "2024-02-26T18:58:11Z",
+                "expirationDate": "2024-03-26T18:58:09Z",
+                "sourceOffer": "Serbest 15  Plan",
+                "sourceOfferId": "7578524889734887223",
+                "initialAmountUnitType": "Seconds",
+                "currentAmountUnitType": "Minutes",
+                "consumedAmount": 0,
+                "consumedAmountUnitType": "Seconds",
+                "currentAmountDisplayValue": "500 Minutes",
+                "initialAmountDisplayValue": "30000 Seconds",
+                "consumedAmountDisplayValue": "0 Seconds",
+                "remainingQuotaAsOfferUOM": "30000",
+                "usageType": "Voice"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "mip": {
+    "balances": [
+      {
+        "unitType": "Bytes",
+        "balanceName": "RoamingDataAddon",
+        "initialAmount": 10240,
+        "currentAmount": 10,
+        "offers": [
+          {
+            "offerId": "2000017088",
+            "offerInstanceId": "553884:3",
+            "offerName": "1  GB",
+            "isOptional": true,
+            "offerClass": "ADD-ON",
+            "retailPrice": {
+              "amount": 0,
+              "currency": "AZN"
+            },
+            "grants": [
+              {
+                "initialAmount": 10240,
+                "currentAmount": 10,
+                "reservedAmount": 0,
+                "grantedAmount": 0,
+                "offerActivationDate": "2024-02-29T17:14:37Z",
+                "creationDate": "2024-02-29T17:14:37Z",
+                "expirationDate": "2024-03-30T17:14:37Z",
+                "sourceOffer": "Roaming Internet pack 10GB",
+                "sourceOfferId": "8848842570721908297",
+                "initialAmountUnitType": "Mbytes",
+                "currentAmountUnitType": "Gbytes",
+                "consumedAmount": 0,
+                "consumedAmountUnitType": "Bytes",
+                "currentAmountDisplayValue": "10 Gbytes",
+                "initialAmountDisplayValue": "10240 Mbytes",
+                "consumedAmountDisplayValue": "0 Bytes",
+                "remainingQuotaAsOfferUOM": "10737418240",
+                "usageType": "Data"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "unitType": "Bytes",
+        "balanceName": "DataAddon",
+        "initialAmount": 2048,
+        "currentAmount": 2,
+        "offers": [
+          {
+            "offerId": "2000017088",
+            "offerInstanceId": "553882:3",
+            "offerName": "1  GB",
+            "isOptional": true,
+            "offerClass": "ADD-ON",
+            "retailPrice": {
+              "amount": 0,
+              "currency": "AZN"
+            },
+            "grants": [
+              {
+                "initialAmount": 1024,
+                "currentAmount": 1,
+                "reservedAmount": 0,
+                "grantedAmount": 0,
+                "offerActivationDate": "2024-02-29T17:07:35Z",
+                "creationDate": "2024-02-29T17:07:35Z",
+                "expirationDate": "2024-03-14T17:07:35Z",
+                "sourceOffer": "Roaming 1GB",
+                "sourceOfferId": "2362139200668161819",
+                "initialAmountUnitType": "Mbytes",
+                "currentAmountUnitType": "Gbytes",
+                "consumedAmount": 0,
+                "consumedAmountUnitType": "Bytes",
+                "currentAmountDisplayValue": "1 Gbytes",
+                "initialAmountDisplayValue": "1024 Mbytes",
+                "consumedAmountDisplayValue": "0 Bytes",
+                "remainingQuotaAsOfferUOM": "1073741824",
+                "usageType": "Data"
+              },
+              {
+                "initialAmount": 1024,
+                "currentAmount": 1,
+                "reservedAmount": 0,
+                "grantedAmount": 0,
+                "offerActivationDate": "2024-02-29T17:07:35Z",
+                "creationDate": "2024-02-29T17:07:35Z",
+                "expirationDate": "2024-03-14T17:07:35Z",
+                "sourceOffer": "Roaming 1GB",
+                "sourceOfferId": "2362139200668161819",
+                "initialAmountUnitType": "Mbytes",
+                "currentAmountUnitType": "Gbytes",
+                "consumedAmount": 0,
+                "consumedAmountUnitType": "Bytes",
+                "currentAmountDisplayValue": "1 Gbytes",
+                "initialAmountDisplayValue": "1024 Mbytes",
+                "consumedAmountDisplayValue": "0 Bytes",
+                "remainingQuotaAsOfferUOM": "1073741824",
+                "usageType": "Data"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "unitType": "Bytes",
+        "balanceName": "Data access",
+        "initialAmount": 0,
+        "currentAmount": 0,
+        "offers": [
+          {
+            "offerId": "2000017088",
+            "offerInstanceId": "569443:3",
+            "offerName": "1  GB",
+            "isOptional": true,
+            "offerClass": "ADD-ON",
+            "retailPrice": {
+              "amount": 0,
+              "currency": "AZN"
+            },
+            "grants": [
+              {
+                "initialAmount": 0,
+                "currentAmount": 0,
+                "reservedAmount": 0,
+                "grantedAmount": 0,
+                "offerActivationDate": "2024-03-04T19:34:03Z",
+                "creationDate": "2024-03-04T19:34:03Z",
+                "expirationDate": "2222-01-01T19:00:00Z",
+                "sourceOffer": "6  hour pack",
+                "sourceOfferId": "450159072624803527",
+                "initialAmountUnitType": "Bytes",
+                "currentAmountUnitType": "Bytes",
+                "consumedAmount": 0,
+                "consumedAmountUnitType": "Bytes",
+                "currentAmountDisplayValue": "0 Bytes",
+                "initialAmountDisplayValue": "0 Bytes",
+                "consumedAmountDisplayValue": "0 Bytes",
+                "remainingQuotaAsOfferUOM": "0",
+                "usageType": "Data"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

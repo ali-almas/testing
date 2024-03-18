@@ -1,0 +1,465 @@
+{
+    "GeneralBalanceResponseV2": {
+        "responseCode": 0,
+        "responseDescription": "OK",
+        "balances": [
+            {
+                "id": "mybusiness10",
+                "type": "TARIFF",
+                "name": {
+                    "eng": "My Business 1 GB - (old)",
+                    "az": "Biznesim 1 GB - (old)",
+                    "ru": "Мой Бизнес 1 GB - (old)"
+                },
+                "units": {
+                    "voiceBalanceItems": {
+                        "items": [
+                            {
+                                "id": "voice_coc_1229",
+                                "name": {
+                                    "eng": "My Business 1 GB",
+                                    "az": "My Business 1 GB",
+                                    "ru": "My Business 1 GB"
+                                },
+                                "description": {
+                                    "eng": "My Business 1 GB",
+                                    "az": "My Business 1 GB",
+                                    "ru": "My Business 1 GB"
+                                },
+                                "network": "LOCAL",
+                                "value": {
+                                    "unit": "SEC",
+                                    "remaining": 42000,
+                                    "usage": 0,
+                                    "unlimited": false,
+                                    "total": 42000
+                                },
+                                "source": {
+                                    "id": "1229",
+                                    "name": "COC"
+                                }
+                            }
+                        ]
+                    },
+                    "dataBalanceItems": {
+                        "items": [
+                            {
+                                "id": "data_vsme_ext_b2b_356",
+                                "name": {
+                                    "eng": "My Business 1 GB",
+                                    "az": "My Business 1 GB",
+                                    "ru": "My Business 1 GB"
+                                },
+                                "description": {
+                                    "eng": "My Business 1 GB",
+                                    "az": "My Business 1 GB",
+                                    "ru": "My Business 1 GB"
+                                },
+                                "network": "DATA",
+                                "value": {
+                                    "unit": "BYTE",
+                                    "remaining": 1073741824,
+                                    "usage": 0,
+                                    "unlimited": false,
+                                    "total": 1073741824
+                                },
+                                "properties": {
+                                    "lastRenewDate": "2024-02-25 00:00:00",
+                                    "quotaResetDate": "2024-03-25 00:00:00",
+                                    "subscriptionRecurrenceStatus": "ACTIVE",
+                                    "subscriptionId": "post_16813a77-15ea-4a08-8f4e-d171b170e6cc",
+                                    "recurrenceType": "CALENDAR_MONTH",
+                                    "startDate": "2023-09-25 00:00:00",
+                                    "expirationDate": "2024-03-25 00:00:00"
+                                },
+                                "source": {
+                                    "id": "ext_b2b_356",
+                                    "name": "VSME"
+                                }
+                            }
+                        ]
+                    },
+                    "smsBalanceItems": {
+                        "items": [
+                            {
+                                "id": "sms_coc_1083",
+                                "name": {
+                                    "eng": "My Business 1 GB",
+                                    "az": "My Business 1 GB",
+                                    "ru": "My Business 1 GB"
+                                },
+                                "description": {
+                                    "eng": "My Business 1 GB",
+                                    "az": "My Business 1 GB",
+                                    "ru": "My Business 1 GB"
+                                },
+                                "network": "LOCAL",
+                                "value": {
+                                    "unit": "NUMBER",
+                                    "remaining": 500,
+                                    "usage": 0,
+                                    "unlimited": false,
+                                    "total": 500
+                                },
+                                "source": {
+                                    "id": "1083",
+                                    "name": "COC"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "id": "mip",
+                "type": "MIP",
+                "name": {
+                    "eng": "Mobile Internet Pack",
+                    "az": "Mobil Internet Paketi",
+                    "ru": "Пакет мобильного интернета"
+                },
+                "units": {
+                    "dataBalanceItems": {
+                        "items": [
+                            {
+                                "id": "data_vsme_ext_b2b_mip_217",
+                                "name": {
+                                    "eng": "5 GB",
+                                    "az": "5 GB",
+                                    "ru": "5 GB"
+                                },
+                                "description": {
+                                    "eng": "5 GB",
+                                    "az": "5 GB",
+                                    "ru": "5 GB"
+                                },
+                                "network": "DATA",
+                                "value": {
+                                    "unit": "BYTE",
+                                    "remaining": 5368709120,
+                                    "usage": 0,
+                                    "unlimited": false,
+                                    "total": 5368709120
+                                },
+                                "properties": {
+                                    "lastRenewDate": "2024-03-17 15:45:56",
+                                    "quotaResetDate": "2024-04-16 15:45:56",
+                                    "subscriptionRecurrenceStatus": "ACTIVE",
+                                    "subscriptionId": "ext_b2b_mip_217test",
+                                    "recurrenceType": "MONTHLY",
+                                    "startDate": "2023-10-19 15:45:56",
+                                    "expirationDate": "2024-04-16 15:45:56"
+                                },
+                                "source": {
+                                    "id": "ext_b2b_mip_217",
+                                    "name": "VSME"
+                                },
+                                "actions": {
+                                    "delete": "unsub_ext_b2b_mip_5GB",
+                                    "renew": "renew_ext_b2b_mip_5GB",
+                                    "stopRenew": "stoprenewal_ext_b2b_mip_5GB"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "id": "main_balance",
+                "type": "MAIN",
+                "name": {
+                    "eng": "Main balance",
+                    "az": "Əsas tarif balansi",
+                    "ru": "Основной баланс"
+                },
+                "units": {
+                    "monetaryBalanceItems": {
+                        "items": [
+                            {
+                                "id": "main_bscs_advance",
+                                "name": {
+                                    "eng": "Advance",
+                                    "az": "Avans",
+                                    "ru": "Аванс"
+                                },
+                                "description": {
+                                    "eng": "Avans",
+                                    "az": "Avans",
+                                    "ru": "Avans"
+                                },
+                                "network": "ONNET",
+                                "value": {
+                                    "unit": "AZN",
+                                    "remaining": 0,
+                                    "unlimited": false
+                                },
+                                "source": {
+                                    "id": "advance",
+                                    "name": "BSCS"
+                                }
+                            },
+                            {
+                                "id": "main_bscs_court_fee",
+                                "name": {
+                                    "eng": "Court fee",
+                                    "az": "Dövlət rüsumu",
+                                    "ru": "ГОС пошлина"
+                                },
+                                "description": {
+                                    "eng": "Dövlət rüsumu",
+                                    "az": "Dövlət rüsumu",
+                                    "ru": "Dövlət rüsumu"
+                                },
+                                "network": "ONNET",
+                                "value": {
+                                    "unit": "AZN",
+                                    "remaining": 0,
+                                    "unlimited": false
+                                },
+                                "source": {
+                                    "id": "court_fee",
+                                    "name": "BSCS"
+                                }
+                            },
+                            {
+                                "id": "main_bscs_credit_limit",
+                                "name": {
+                                    "eng": "Credit limit",
+                                    "az": "Kredit limiti",
+                                    "ru": "Кредит лимит"
+                                },
+                                "description": {
+                                    "eng": "Kredit limiti",
+                                    "az": "Kredit limiti",
+                                    "ru": "Kredit limiti"
+                                },
+                                "network": "ONNET",
+                                "value": {
+                                    "unit": "AZN",
+                                    "remaining": 100,
+                                    "unlimited": false
+                                },
+                                "source": {
+                                    "id": "credit_limit",
+                                    "name": "BSCS"
+                                }
+                            },
+                            {
+                                "id": "main_bscs_deposite",
+                                "name": {
+                                    "eng": "Deposit",
+                                    "az": "Depozit",
+                                    "ru": "Депозит"
+                                },
+                                "description": {
+                                    "eng": "Depozit",
+                                    "az": "Depozit",
+                                    "ru": "Depozit"
+                                },
+                                "network": "ONNET",
+                                "value": {
+                                    "unit": "AZN",
+                                    "remaining": 0,
+                                    "unlimited": false
+                                },
+                                "source": {
+                                    "id": "deposit",
+                                    "name": "BSCS"
+                                }
+                            },
+                            {
+                                "id": "main_bscs_fees",
+                                "name": {
+                                    "eng": "Fees",
+                                    "az": "Əlavə ödəniş",
+                                    "ru": "Дополнительная оплата"
+                                },
+                                "description": {
+                                    "eng": "Əlavə ödəniş",
+                                    "az": "Əlavə ödəniş",
+                                    "ru": "Əlavə ödəniş"
+                                },
+                                "network": "ONNET",
+                                "value": {
+                                    "unit": "AZN",
+                                    "remaining": 0,
+                                    "unlimited": false
+                                },
+                                "source": {
+                                    "id": "fees",
+                                    "name": "BSCS"
+                                }
+                            },
+                            {
+                                "id": "main_bscs_invoice_debt",
+                                "name": {
+                                    "eng": "Invoice debt",
+                                    "az": "Faktura borcu",
+                                    "ru": "Фактурный долг"
+                                },
+                                "description": {
+                                    "eng": "Faktura borcu",
+                                    "az": "Faktura borcu",
+                                    "ru": "Faktura borcu"
+                                },
+                                "network": "ONNET",
+                                "value": {
+                                    "unit": "AZN",
+                                    "remaining": 183.85,
+                                    "unlimited": false
+                                },
+                                "properties": {
+                                    "lastInvoiceDate": "2024-02-25 00:00:00",
+                                    "dueDate": "2023-10-17 00:00:00",
+                                    "unpaidInvoiceCount": "6"
+                                },
+                                "source": {
+                                    "id": "invoice_debt",
+                                    "name": "BSCS"
+                                }
+                            },
+                            {
+                                "id": "main_bscs_late_fee",
+                                "name": {
+                                    "eng": "Late fee",
+                                    "az": "Gecikmə faiz məbləği",
+                                    "ru": "Процент опоздания"
+                                },
+                                "description": {
+                                    "eng": "Gecikmə faiz məbləği",
+                                    "az": "Gecikmə faiz məbləği",
+                                    "ru": "Gecikmə faiz məbləği"
+                                },
+                                "network": "ONNET",
+                                "value": {
+                                    "unit": "AZN",
+                                    "remaining": 0,
+                                    "unlimited": false
+                                },
+                                "source": {
+                                    "id": "late_fee",
+                                    "name": "BSCS"
+                                }
+                            },
+                            {
+                                "id": "main_bscs_monthly_fee",
+                                "name": {
+                                    "eng": "Monthly fee",
+                                    "az": "Aylıq abunə haqqı",
+                                    "ru": "Абонентская плата"
+                                },
+                                "description": {
+                                    "eng": "Aylıq abunə haqqı",
+                                    "az": "Aylıq abunə haqqı",
+                                    "ru": "Aylıq abunə haqqı"
+                                },
+                                "network": "ONNET",
+                                "value": {
+                                    "unit": "AZN",
+                                    "remaining": 10.169492,
+                                    "unlimited": false
+                                },
+                                "source": {
+                                    "id": "monthly_fee",
+                                    "name": "BSCS"
+                                }
+                            },
+                            {
+                                "id": "main_bscs_overlimit",
+                                "name": {
+                                    "eng": "Over Limit",
+                                    "az": "Limitin keçməsi",
+                                    "ru": "Превышение лимита"
+                                },
+                                "description": {
+                                    "eng": "Limitin keçməsi",
+                                    "az": "Limitin keçməsi",
+                                    "ru": "Limitin keçməsi"
+                                },
+                                "network": "ALL",
+                                "value": {
+                                    "unit": "AZN",
+                                    "remaining": 0,
+                                    "unlimited": false
+                                },
+                                "source": {
+                                    "id": "overlimit",
+                                    "name": "BSCS"
+                                }
+                            },
+                            {
+                                "id": "main_bscs_remaining_limit",
+                                "name": {
+                                    "eng": "Remaining limit",
+                                    "az": "Qalıq limit",
+                                    "ru": "Остаток лимита"
+                                },
+                                "description": {
+                                    "eng": "Qalıq limit",
+                                    "az": "Qalıq limit",
+                                    "ru": "Qalıq limit"
+                                },
+                                "network": "ONNET",
+                                "value": {
+                                    "unit": "AZN",
+                                    "remaining": 77,
+                                    "unlimited": false
+                                },
+                                "source": {
+                                    "id": "remaining_limit",
+                                    "name": "BSCS"
+                                }
+                            },
+                            {
+                                "id": "main_bscs_sfr_debt",
+                                "name": {
+                                    "eng": "SFR Debt",
+                                    "az": "Xəttin açılması üçün minimal məbləğ",
+                                    "ru": "SFR Debt"
+                                },
+                                "description": {
+                                    "eng": "Xəttin açılması üçün minimal məbləğ",
+                                    "az": "Xəttin açılması üçün minimal məbləğ",
+                                    "ru": "Xəttin açılması üçün minimal məbləğ"
+                                },
+                                "network": "ALL",
+                                "value": {
+                                    "unit": "AZN",
+                                    "remaining": 0,
+                                    "unlimited": false
+                                },
+                                "source": {
+                                    "id": "sfr_debt",
+                                    "name": "BSCS"
+                                }
+                            },
+                            {
+                                "id": "main_bscs_total_unbill",
+                                "name": {
+                                    "eng": "Total unbill",
+                                    "az": "Hazırki istifadə",
+                                    "ru": "Сумма текущих разговоров"
+                                },
+                                "description": {
+                                    "eng": "Hazırki istifadə",
+                                    "az": "Hazırki istifadə",
+                                    "ru": "Hazırki istifadə"
+                                },
+                                "network": "ONNET",
+                                "value": {
+                                    "unit": "AZN",
+                                    "remaining": 23,
+                                    "unlimited": false
+                                },
+                                "source": {
+                                    "id": "total_unbill",
+                                    "name": "BSCS"
+                                }
+                            }
+                        ]
+                    }
+                }
+            }
+        ]
+    }
+}

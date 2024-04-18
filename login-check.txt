@@ -1,4 +1,0 @@
-{
-	"serviceExternalId": "",
-	"status": "completed"
-}

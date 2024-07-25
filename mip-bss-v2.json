@@ -1,0 +1,353 @@
+[{
+    "categoryId": 100003072,
+    "name": "Günlük",
+    "productOfferings": [
+      {
+        "productOfferingId": 2000017432,
+        "longDescription": "4G şəbəkəsində istifadə üçün 50GB internet paketi 30 günlük",
+        "isPrimary": false,
+        "name": "4G üçün 50GB",
+        "productType": "PRODUCT",
+        "price": 0,
+        "isBPO": false
+      },
+      {
+        "productOfferingId": 2000017428,
+        "longDescription": "4G şəbəkəsində istifadə üçün 500MB internet paketi 30 günlük",
+        "isPrimary": false,
+        "name": "4G üçün 500MB",
+        "productType": "PRODUCT",
+        "price": 0,
+        "isBPO": false
+      },
+      {
+        "productOfferingId": 2000017433,
+        "longDescription": "00:00 Ş. - 23:59 B.",
+        "isPrimary": false,
+        "name": "Həftəsonu",
+        "productType": "PRODUCT",
+        "price": 1.99,
+        "isBPO": false
+      },
+      {
+        "productOfferingId": 2000017427,
+        "longDescription": "Abunəçi gündəlik internet paketlərindən 24 saat ərzində istifadə edə bilər.",
+        "isPrimary": false,
+        "name": "Günlük 250MB",
+        "productType": "PRODUCT",
+        "price": 0.8,
+        "isBPO": false
+      },
+      {
+        "productOfferingId": 2000017418,
+        "longDescription": "4G şəbəkəsində istifadə üçün 10GB internet paketi 30 günlük",
+        "isPrimary": false,
+        "name": "4G üçün 10GB",
+        "productType": "PRODUCT",
+        "price": 0,
+        "isBPO": false
+      },
+      {
+        "productOfferingId": 2000017431,
+        "longDescription": "4G şəbəkəsində istifadə üçün 5GB internet paketi 30 günlük",
+        "isPrimary": false,
+        "name": "4G üçün 5GB",
+        "productType": "PRODUCT",
+        "price": 0,
+        "isBPO": false
+      },
+      {
+        "productOfferingId": 2000017430,
+        "longDescription": "4G şəbəkəsində istifadə üçün 1GB internet paketi 30 günlü",
+        "isPrimary": false,
+        "name": "4G üçün 1GB",
+        "productType": "PRODUCT",
+        "price": 0,
+        "isBPO": false
+      },
+      {
+        "productOfferingId": 2000017407,
+        "longDescription": "Abunəçilər kredit-ə həftəlik yenilənməyən internet paket əldə edə bilər",
+        "isPrimary": false,
+        "name": "300 MB kredit paketi",
+        "productType": "PRODUCT",
+        "price": 2,
+        "isBPO": false
+      },
+      {
+        "productOfferingId": 2000017419,
+        "longDescription": "Abunəçi gündəlik internet paketlərindən 24 saat ərzində istifadə edə bilər.&#xa0;",
+        "isPrimary": false,
+        "name": "Günlük 1000MB",
+        "productType": "PRODUCT",
+        "price": 1.5,
+        "isBPO": false
+      }
+    ]
+  },
+  {
+    "categoryId": 100003075,
+    "name": "Aylıq",
+    "productOfferings": [
+      {
+        "productOfferingId": 2000017429,
+        "longDescription": "Sosial Media paketləri",
+        "isPrimary": false,
+        "name": "Aylıq YouTube 1GB",
+        "productType": "PRODUCT",
+        "price": 1.5,
+        "isBPO": false
+      },
+      {
+        "productOfferingId": 2000017470,
+        "longDescription": "*",
+        "isPrimary": false,
+        "name": "DUMMY 1 GB",
+        "productType": "PRODUCT",
+        "price": 5,
+        "isBPO": false
+      },
+      {
+        "productOfferingId": 2000017275,
+        "longDescription": "Aylıq internet paketi",
+        "isPrimary": false,
+        "name": "Aylıq 12GB",
+        "productType": "PRODUCT",
+        "price": 19,
+        "isBPO": false
+      },
+      {
+        "productOfferingId": 2000017277,
+        "longDescription": "Aylıq internet paketi",
+        "isPrimary": false,
+        "name": "Aylıq 6GB",
+        "productType": "PRODUCT",
+        "price": 12,
+        "isBPO": false
+      },
+      {
+        "productOfferingId": 2000017686,
+        "longDescription": "Aylıq internet paketi",
+        "isPrimary": false,
+        "name": "DUMMY Monthly 12 GB RC 1d",
+        "productType": "PRODUCT",
+        "price": 19,
+        "isBPO": false
+      },
+      {
+        "productOfferingId": 2000017409,
+        "longDescription": "Sosial Media paketləri",
+        "isPrimary": false,
+        "name": "Aylıq Instagram və Facebook 2GB",
+        "productType": "PRODUCT",
+        "price": 2,
+        "isBPO": false
+      },
+      {
+        "productOfferingId": 2000017417,
+        "longDescription": "TikTok internet paketi",
+        "isPrimary": false,
+        "name": "Aylıq TikTok 1GB (yenilənən)",
+        "productType": "PRODUCT",
+        "price": 2,
+        "isBPO": false
+      },
+      {
+        "productOfferingId": 2000017694,
+        "longDescription": "Aylıq internet paketi",
+        "isPrimary": false,
+        "name": "DUMMY Monthly 55Gb",
+        "productType": "PRODUCT",
+        "price": 39,
+        "isBPO": false
+      },
+      {
+        "productOfferingId": 2000017279,
+        "longDescription": "Aylıq internet paketi",
+        "isPrimary": false,
+        "name": "Aylıq 55GB",
+        "productType": "PRODUCT",
+        "price": 39,
+        "isBPO": false
+      },
+      {
+        "productOfferingId": 2000017425,
+        "longDescription": "Sosial Media paketləri",
+        "isPrimary": false,
+        "name": "Aylıq YouTube 2GB) ",
+        "productType": "PRODUCT",
+        "price": 2.5,
+        "isBPO": false
+      },
+      {
+        "productOfferingId": 2000017276,
+        "longDescription": "Aylıq internet paketi",
+        "isPrimary": false,
+        "name": "Aylıq  30GB",
+        "productType": "PRODUCT",
+        "price": 29,
+        "isBPO": false
+      },
+      {
+        "productOfferingId": 2000017413,
+        "longDescription": "Sosial Media paketləri",
+        "isPrimary": false,
+        "name": "Aylıq Instagram və Facebook 1GB",
+        "productType": "PRODUCT",
+        "price": 1.2,
+        "isBPO": false
+      },
+      {
+        "productOfferingId": 2000017422,
+        "longDescription": "Sosial Media paketləri",
+        "isPrimary": false,
+        "name": "Aylıq TikTok 5GB",
+        "productType": "PRODUCT",
+        "price": 5,
+        "isBPO": false
+      },
+      {
+        "productOfferingId": 2000017415,
+        "longDescription": "Sosial Media paketləri",
+        "isPrimary": false,
+        "name": "Aylıq TikTok 1GB",
+        "productType": "PRODUCT",
+        "price": 1.5,
+        "isBPO": false
+      },
+      {
+        "productOfferingId": 2000017436,
+        "longDescription": "Sosial Media paketləri",
+        "isPrimary": false,
+        "name": "Aylıq Instagram və Facebook 500MB",
+        "productType": "PRODUCT",
+        "price": 0.75,
+        "isBPO": false
+      },
+      {
+        "productOfferingId": 2000017278,
+        "longDescription": "Aylıq internet paketi",
+        "isPrimary": false,
+        "name": "Aylıq 1.5GB",
+        "productType": "PRODUCT",
+        "price": 6,
+        "isBPO": false
+      },
+      {
+        "productOfferingId": 2000017408,
+        "longDescription": "Sosial Media paketləri",
+        "isPrimary": false,
+        "name": "Aylıq YouTube 5GB",
+        "productType": "PRODUCT",
+        "price": 5,
+        "isBPO": false
+      },
+      {
+        "productOfferingId": 2000017405,
+        "longDescription": "Sosial Media paketləri",
+        "isPrimary": false,
+        "name": "Aylıq TikTok 2GB",
+        "productType": "PRODUCT",
+        "price": 2.5,
+        "isBPO": false
+      },
+      {
+        "productOfferingId": 2000017687,
+        "longDescription": "Aylıq internet paketi",
+        "isPrimary": false,
+        "name": "DUMMY  Monthly 30 GB RC 3d",
+        "productType": "PRODUCT",
+        "price": 29,
+        "isBPO": false
+      }
+    ]
+  },
+  {
+    "categoryId": 100003216,
+    "name": "Limitsiz",
+    "description": "Mobile Prepaid Plans",
+    "productOfferings": [
+      {
+        "productOfferingId": 2000017772,
+        "longDescription": "Maks. sürət - 2 MB /s",
+        "isPrimary": false,
+        "name": "Dummy unlimited 1 hour  with duration",
+        "productType": "PRODUCT",
+        "price": 0.59,
+        "isBPO": false
+      },
+      {
+        "productOfferingId": 2000017412,
+        "longDescription": "Maks. sürət - 2 MB /s",
+        "isPrimary": false,
+        "name": "6 saat",
+        "productType": "PRODUCT",
+        "price": 2.39,
+        "isBPO": false
+      },
+      {
+        "productOfferingId": 2000017771,
+        "longDescription": "Maks. sürət - 2 MB /s",
+        "isPrimary": false,
+        "name": "Dummy  unlimited 1 hour",
+        "productType": "PRODUCT",
+        "price": 0.59,
+        "isBPO": false
+      },
+      {
+        "productOfferingId": 2000017433,
+        "longDescription": "00:00 Ş. - 23:59 B.",
+        "isPrimary": false,
+        "name": "Həftəsonu",
+        "productType": "PRODUCT",
+        "price": 1.99,
+        "isBPO": false
+      },
+      {
+        "productOfferingId": 2000017424,
+        "longDescription": "Maks. sürət - 2 MB /s",
+        "isPrimary": false,
+        "name": "1 saat",
+        "productType": "PRODUCT",
+        "price": 0.59,
+        "isBPO": false
+      },
+      {
+        "productOfferingId": 2000017423,
+        "longDescription": "Maks. sürət - 2 MB /s",
+        "isPrimary": false,
+        "name": "3 saat",
+        "productType": "PRODUCT",
+        "price": 1.49,
+        "isBPO": false
+      }
+    ]
+  },
+  {
+    "categoryId": 100003217,
+    "name": "Sosial",
+    "productOfferings": [],
+    "childCategories": [
+      {
+        "categoryId": 100003215,
+        "name": "Təhsil",
+        "productOfferings": []
+      },
+      {
+        "categoryId": 100003315,
+        "name": "TikTok",
+        "description": "With monthly Internet pack more than 1.5 GB",
+        "productOfferings": [
+          {
+            "productOfferingId": 2000017417,
+            "longDescription": "TikTok internet paketi",
+            "isPrimary": false,
+            "name": "Aylıq TikTok 1GB (yenilənən)",
+            "productType": "PRODUCT",
+            "price": 2,
+            "isBPO": false
+          }
+        ]
+      }
+    ]
+  }]
